@@ -1,0 +1,15 @@
+.lang-buttons {
+  margin-bottom: 10px;
+}
+
+.cv-horizontal-separator {
+  margin-bottom: 6px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #000;
+}
+
+.cv-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
